@@ -1,0 +1,12 @@
+.signup-form {
+    width: 60%;
+    padding: 25px 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 2px solid rgba(128, 128, 128, 0.5);
+    border-radius: 4px;
+}
+
+.error-message {
+    color: red;
+}
